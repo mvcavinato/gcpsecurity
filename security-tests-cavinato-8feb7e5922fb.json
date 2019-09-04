@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "security-tests-cavinato",
+  "private_key_id": "8feb7e5922fbebe80eaa8f603ed41f1f2ba812a6",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDP1y2eiBpVzwvt\nHdoMn1K8uZlOcR4HDgLFDXoo8UfOFzqqcgTPjAcBPjH1fqjSrc1gyCZnks/fwyBA\nkFJKJnUama4grGZYFHEVTKG7Q4vrai41EAkbYdI6FYW6EblnN1/MgqzPIRfJzFhZ\nV1dIfPvLNX9OvH/vlTTbXnSVNrVCRXCkF4ZJC8VcZGXtLidY6YOu9PuCxcPRV6ZG\nR2yz+1iDnXrEJCj6yfF62l7No5TrxRgl2ru5MrRD45zimfoEzDi1VghAQV0b7Oe2\nqwLZ3wwquDJW4wyvP1HywBYxrnxv4ph4Uk9RU9GJohdEGs/4Zf3sgDMxsXVUxzhj\nBFTYQizrAgMBAAECggEAPMG0TkGPIUJzRA+T7FiuwQiobivXEUzhNmVoLovJ588W\nkTjfeyR977kUtaUfCOdRwFcCEwjxx4Gs7fLCe3aeiPYf1uFO0bS4Effi13E5d8oE\nU/KqFt0TrXMZMnl371paoNgaWDpeT9lygjtsAn62xIKRAp1L8Od3GiGUhwIFHqfT\nC2Bj3GrlHH/8t8oEpOxHGpEB+eD2yEbXc2jHAYEclGALy6+EtqQqlgTM3iLAKVG7\nvjFs/5dLzMAzIbGoibBCR3IpTpUQvP2KM7w02LBo6iKu2LCltBuFvUwgalbdpdte\nXQmMp+KxK7fXfs5W5lyXrVHdTFH6c6Q+x7AihdMv0QKBgQDs2C29cUQq7ITboM9q\ny0bLho0r0CroQ+bTkthpsd3CExcZyFfZVej9IJexW2Ie05lcm/9SEO2vaAGF6rZp\nE5yqVOcq+m0x7qVOrwiv3ajBaqFo3prXhAoWDu1dRWUU7palIqr/l8bMT7uIFeJa\nnlrBlkyGTwBxEMGaUl+vxSbshQKBgQDgpnqXataFrf6UHAO0eD5CXnE2GLWFPZB4\nIEgziY6Uk126RpxjOz/P81LOwpHfjQO1+wySL4xbQrixrnbmEgUyf+jNEUFnQRRL\n23qMpWRfFLTF1/b8Gb10Ny47p/XO6/Ft+ISE+AQlnI5nUyFRgQQSpY4NLHZl7KXv\nk9nukbvmrwKBgQDAwihn2DlcneZ7QWPOTOavWjCnCeMB6dGBPDA5xXLwMs1IRI+K\n6KqY6N/Mjs1KvXhBsQyZZAGuEn262g3fcwC8eCE0D2CzlMChSz9MsqBX2krHqPRo\nlqQG09tHX+Umpg+hEpgNMR+wxOuhk/4HNn4ys/pQDRgU7UhEKuqJiXFmaQKBgAg8\nsnQI29LM/W+q00vzuLywP9Bu+YDoL/rnnB4fphW2jZI98pAE5SMX1ep04epjfkZW\n7TATBD94Y9NIBV4MPRqL7BpQzqgdj8P0STsM+XAvDy3N7GV0AClZuJ1BXFb4+cJB\ngYJqoaRLaEFLoAYgB+kzHtFG1xSHp9HwBuaje1NLAoGAJ04kAjA+8xgGaSWxmL9l\n2E3ZpykwYEIO6BjmjYtHYyOBbxf+DMJ9p9LA0pUWmBpVOXLibhWV6AvBgJdgiUeK\nd58j4liXR5Q4QHW0gblSesLT0T8WEKqhQipmhgZnjopzhXoQcWwaZQornAA9Kuqg\nRhpi9dEG9Lm58ZOtdsrOA9g=\n-----END PRIVATE KEY-----\n",
+  "client_email": "leaked-credentials@security-tests-cavinato.iam.gserviceaccount.com",
+  "client_id": "105279959436194355812",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/leaked-credentials%40security-tests-cavinato.iam.gserviceaccount.com"
+}
