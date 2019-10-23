@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "cavinato-etd-test",
+  "private_key_id": "41d25dffc3e8cab42b66c1f01382ffebb3c3ef98",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDZCDzHQWnlchU1\n4FAwq2ySOulKL/SK6JCAEqyfKCnFzmrPYdIcuhMKr4QR5/Vml4t3vgLUCEf3kMkA\nvBKna6G2dL1mqSkGQc+b2E9+lW42ZEJbu/EQRy1MFN4x25RFen4s9HT2L1jaIUax\nPn01Jx/srvnltwKPBJ+sTViDBUKIN7NuMAxnDjgg5IZKgGAHstQWv5EvPZm3PYGS\nZVtDveY8rCPcUldjhyLWiRumzfalu0t3Z9VyMcwf/y+YnDsYMYATw2cn6QSWqVWJ\nypoKdJUmQbkPjhAK1D7t/iBC5WUxMIka2JlHbXylPbw+c7vVWBHbdX18otWMxcoj\nsqG5T8DnAgMBAAECggEASByYET63YGDlEkcrbdhvlTDU1e0ULFl0tdE+oQ1Xv91D\nmQ9wIFJlRE4oLEjtvX5J/WnZh7kOrH/jgYZ8DjvReg3U5rj7JBSW1jnrw+wDuDfc\n4p0STm3P67EdWOSUIfe+19IL0MbPl36p/fd8473RujMzXjPOOlX3deknKTWEszxt\no+xN6wAEvaYqRvAZezUPSpDOwJGM3hqEgsVAMx1V0ngaZEz4fnJWwx7A72ue46bi\nnbpnV/D3YPJh618Tq1dAXU/SrLei+4hEqpcS3kNZb3JyG5UiC+L7Jtu07H9371rD\nS93RPJWBIjPaaK28vqOGdzc4clNMZiRE6fsG1gpAcQKBgQD96eTKTyvnTT2kMKKn\niRdWydWzFE1+hJj5L14hSXS1zH0QcITHtGBSZ1H1InqTMZvXMJrtI2BRJdkOQW+/\nZTIQCvKR74RUkYmXG9wmpdzT+y9ahtST4KzbmY5PG57B8VeBayeqXBQCB7Crwpok\n6TDzfPvJCBesQM+Sk5EnrAN3FwKBgQDa0MOA+W4VfBYBQo5j0OOz5rhws8dG+gIH\njrw1rSt5z9EP5rYOkLvsVStJpIyXVkOyIZRjVve4T5pHSviCCu+j/aUg/sibsPsh\n3zx0Wl48ADQlApB4tsVhgm3hOM/PtUMF+WbqCSYkc2qfdsN9EN1aMDTIEHQELsTS\neSdZ6MsmsQKBgQCXWA12BOC/WovOTOr2f0E5Cs7kkcprCfAAPxqVLqpxHjTBUr/i\nJQJwu4LfYTC8gYpJJoCBrl9fnvaUh65q34+Kfmv9Tk2K9sCTIBkFtEE+3O5pwAn/\nJqEBt7JaNrVXFlo5Grymz4FhgGHuzux/6bqytyGAvuEVXAAddvXDNsVN+wKBgEbw\njaF/vDfM7dlkuYMU0u2dLEilkEKrhQLsPIpuZPzt6gpssrNQKwy4o/sRFN9vgSz8\nA/6c0Fz5ubvJS33li8Gv1tw2ndUT8KcPl6rlLU3ohv9EsI/iOWWegn8VCxJ84ojK\nTZoscyg4HuYp+8DNOeYmYMZHx0Uf4IGX87ELbulRAoGAZzSqiVdsdiFtXHP8Jh06\n9DIRnbydLN+P2XuZvopT6lAHgLDfMJ0GMqED6xWJn8J7MyQ36pS2BaGYlSGar6tb\nO/Sr59qb9gesVJHPToM3glIiXuRMbRVQzOzJWzKtwhntXmZ7vJCkEJbQGC/IC93P\nKaYutCL/rc9z/7OX/S8cpoc=\n-----END PRIVATE KEY-----\n",
+  "client_email": "soccer-is-good@cavinato-etd-test.iam.gserviceaccount.com",
+  "client_id": "107710347942786432712",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/soccer-is-good%40cavinato-etd-test.iam.gserviceaccount.com"
+}
